@@ -20,13 +20,6 @@ public class Solution {
         }
         System.out.println();
     }
-
-    public void insertAtStart(int data)
-    {
-        ListNode temp = new ListNode(data);
-        temp.next = head;
-        head = temp;
-    }
     void insertAtEnd(int data)
     {
         ListNode node = new ListNode(data);
@@ -44,7 +37,25 @@ public class Solution {
         }
     }
 
-    public void deleteUsingValue(int data) {
+    public ListNode deleteDuplicateUnsortedEasyMethod(ListNode head) {    //this is a better way of doing
+        ListNode dummy = new ListNode(0, head);
+        Map<Integer, Integer> count = new HashMap<>();
+
+        for (ListNode curr = head; curr != null; curr = curr.next)
+            count.merge(curr.data, 1, Integer::sum);
+
+        ListNode curr = dummy;
+
+        while (curr != null) {
+            while (curr.next != null && count.containsKey(curr.next.data) && count.get(curr.next.data) > 1)
+                curr.next = curr.next.next;
+            curr = curr.next;
+        }
+
+        return dummy.next;
+    }
+
+    private ListNode deleteUsingValue(int data, ListNode head) {
         ListNode curr = head;
         ListNode prev = null;
 
@@ -64,34 +75,50 @@ public class Solution {
         } else {
             System.out.println("Value not found");
         }
+
+        return head; // Return the modified head
     }
 
-    public ListNode deleteDuplicateUnsorted(ListNode head)
-    {
-        if(head == null) return null;
-        ListNode prev = null;
+
+    public static int countOccurrences(ListNode head, int targetValue) {
+        int count = 0;
+        ListNode current = head;
+
+        while (current != null) {
+            if (current.data == targetValue) {
+                count++;
+            }
+            current = current.next;
+        }
+
+        return count;
+    }
+
+
+    public ListNode deleteDuplicateUnsorted(ListNode head) {
+        if (head == null)
+            return null;
+
+        ListNode temp = new ListNode(0); // Create a dummy node to simplify head update
+        temp.next = head;
+
+        Map<Integer, Boolean> visited = new HashMap<>();
         ListNode curr = head;
 
-        ListNode temp = new ListNode(0);
-
-        Map<Integer , Boolean> visited = new HashMap<>();
-
-        while(curr != null)
-        {
-            if (visited.containsKey(curr.data))
-            {
-                deleteUsingValue(curr.data);
-                prev.next =curr.next;
-            }
-            else {
+        while (curr != null) {
+            if (visited.containsKey(curr.data)) {
+                int count = countOccurrences(temp.next, curr.data);
+                for (int i = 0; i < count; i++) {
+                    temp.next = deleteUsingValue(curr.data, temp.next);
+                }
+            } else {
                 visited.put(curr.data, true);
-                insertAtEnd(curr.data);
             }
 
-            prev = curr;
-            curr =curr.next;
+            curr = curr.next;
         }
-        return head.next;
+        return temp.next; // Return the modified head
     }
+
 
 }
