@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e02e2c8f-2feb-4580-ad5c-16596311e107" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 0027/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0027/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0027/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0086/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0086/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0086/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0832/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0832/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0832/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/Question 1768.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1768/src/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2am3LTVxIYwruvuVXPrHn3Nu0Ch" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e02e2c8f-2feb-4580-ad5c-16596311e107" name="Changes" comment="" />
+      <created>1704909871506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704909871506</updated>
+      <workItem from="1704909872543" duration="1021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
