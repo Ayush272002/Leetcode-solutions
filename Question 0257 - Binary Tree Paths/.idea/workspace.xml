@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586f6f87-3ea7-403d-926f-7418e70c55cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0105 - Construct Binary Tree from Preorder and Inorder Traversal/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/Question 0150 - Evaluate Reverse Polish Notation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0150 - Evaluate Reverse Polish Notation/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/Lecture 0257 - Binary Tree Paths.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture 0257 - Binary Tree Paths/src/TreeNode.java" beforeDir="false" />
-    </list>
+    <list default="true" id="586f6f87-3ea7-403d-926f-7418e70c55cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +55,7 @@
       <workItem from="1706564820425" duration="1725000" />
       <workItem from="1706658272186" duration="66000" />
       <workItem from="1706658419627" duration="13000" />
+      <workItem from="1706658549333" duration="5000" />
     </task>
     <servers />
   </component>
