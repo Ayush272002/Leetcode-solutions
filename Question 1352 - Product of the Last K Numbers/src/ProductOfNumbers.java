@@ -1,21 +1,35 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.ArrayList;
 
-class ProductOfNumbers {
-    Deque<Integer> stream;
+class ProductOfNumbers
+{
+    ArrayList<Integer> stream;
     int product;
 
     public ProductOfNumbers() {
-        stream = new ArrayDeque<>();
+        stream = new ArrayList<>();
         product = 1;
     }
 
-    public void add(int num) {
-        
+    public void add(int num)
+    {
+        if(num ==0)
+        {
+            stream.clear();
+            product = 1;
+        }
+        else
+        {
+            product *= num;
+            stream.add(product);
+        }
     }
 
-    public int getProduct(int k) {
+    public int getProduct(int k)
+    {
+        if(k==stream.size()) return product;
+        if(k>stream.size()) return 0;
 
+        return stream.get(stream.size()-1)/stream.get(stream.size()-k-1);
     }
 }
 
