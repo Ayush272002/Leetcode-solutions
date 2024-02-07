@@ -3,101 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="29c91510-9893-498b-b08a-fc530acf6c79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/Question 0009 - Palindrome Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0009 - Palindrome Number/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0155 - Min Stack/Question 0155.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0189 - Rotate Array/Question 0189.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0189 - Rotate Array/Question 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0199 - Binary Tree Right Side View/Question 0199.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0240 - Search a 2D Matrix II/Question 240 - Search a 2D Matrix II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0832 - Flipping an Image/Question 0832.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0872 - Leaf-Similar Trees/Question 0872.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0921 - Minimum Add to Make Parentheses Valid/Question 0921.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0921 - Minimum Add to Make Parentheses Valid/Question 8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Question 1291 - Sequential Digits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/Question 0155.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/src/MinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0155/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/Question 0189.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/Question 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0189/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/Question 0199.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/src/MyPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0199/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/Question 0832.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0832/src/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/Question 0872.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0872/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/Question 0921.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/Question 8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0921/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/Question 240 - Search a 2D Matrix II.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/Readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/src/Solution.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/Question 0451 - Sort Characters By Frequency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0451 - Sort Characters By Frequency/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,19 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -143,6 +75,7 @@
       <updated>1706870532908</updated>
       <workItem from="1706870533893" duration="830000" />
       <workItem from="1706881104836" duration="145000" />
+      <workItem from="1707307683109" duration="20000" />
     </task>
     <servers />
   </component>
