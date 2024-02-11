@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c9d0cb7-c045-4d0c-8e56-1504a7e3865b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/Question 0442 - Find All Duplicates in an Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0442 - Find All Duplicates in an Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/Question 0797 - All Paths From Source to Target.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0797 - All Paths From Source to Target/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1207 - Unique Number of Occurrences/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1207 - Unique Number of Occurrences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrieNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2c9R63LwrGVQC6kvCTwuQ5OeFck" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c9d0cb7-c045-4d0c-8e56-1504a7e3865b" name="Changes" comment="" />
+      <created>1707521629101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707521629101</updated>
+      <workItem from="1707521630098" duration="1969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
