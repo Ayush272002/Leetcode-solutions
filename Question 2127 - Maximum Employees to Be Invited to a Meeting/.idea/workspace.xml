@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="671691d9-15d9-479d-865e-262bac6b7c66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/Question 0117 - Populating Next Right Pointers in Each Node II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0117 - Populating Next Right Pointers in Each Node II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/Question 0143 - Reorder List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0143 - Reorder List/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0200 - Number of Islands/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0200 - Number of Islands/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0200 - Number of Islands/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/Question 0547 - Number of Provinces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0547 - Number of Provinces/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/Question 2108 - Find First Palindromic String in the Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2108 - Find First Palindromic String in the Array/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2cKTVIoChX2gl8HgRZHemDDSLtH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671691d9-15d9-479d-865e-262bac6b7c66" name="Changes" comment="" />
+      <created>1707859293143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707859293143</updated>
+      <workItem from="1707859294141" duration="6958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
