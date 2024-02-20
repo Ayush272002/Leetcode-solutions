@@ -1,4 +1,4 @@
-class Solution {
+class SolutionUsingDFS {
     private boolean dfs(int node, boolean[] visited, int[] color, int[][] graph)
     {
         visited[node] = true;
