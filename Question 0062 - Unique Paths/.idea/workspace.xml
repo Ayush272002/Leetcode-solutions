@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffcbf3c3-cca7-4d21-b37f-f74b626dacb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolutionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/Question 0198 - House Robber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/src/SolutionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0198 - House Robber/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/Question 0279 - Perfect Squares.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/src/SolutionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0279 - Perfect Squares/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/Question 0322 - Coin Change.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/src/BottomUpApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/src/RecursiveSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0322 - Coin Change/src/TopDownApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/Question 0997 - Find the Town Judge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0997 - Find the Town Judge/src/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2cjbuzC6c8sxWwssdih98tMaFk2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffcbf3c3-cca7-4d21-b37f-f74b626dacb2" name="Changes" comment="" />
+      <created>1708628162601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708628162601</updated>
+      <workItem from="1708628163539" duration="1737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
