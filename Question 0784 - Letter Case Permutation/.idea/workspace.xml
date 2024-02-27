@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed172fcd-226f-41a1-b420-318ef8ad1e62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/Question 0077 - Combinations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0077 - Combinations/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0126 - Word Ladder II/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0126 - Word Ladder II/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0126 - Word Ladder II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/Question 0127 - Word Ladder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/src/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0127 - Word Ladder/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0543 - Diameter of Binary Tree/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/Question 0802 - Find Eventual Safe States.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0802 - Find Eventual Safe States/src/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cwgyACz2gAKv8DH0buVNkPlvD4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed172fcd-226f-41a1-b420-318ef8ad1e62" name="Changes" comment="" />
+      <created>1709028307004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709028307004</updated>
+      <workItem from="1709028308007" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
