@@ -4,79 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a13259-d410-46cc-958c-6bfdd5bf15d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/Question 0022 - Generate Parentheses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0022 - Generate Parentheses/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/Question 0039 - Combination Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0039 - Combination Sum/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/Question 0040 - Combination Sum II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0040 - Combination Sum II/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/Question 0216 - Combination Sum III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0216 - Combination Sum III/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/Question 0377 - Combination Sum IV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/src/BottomUpApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/src/SolutionUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0377 - Combination Sum IV/src/TopDownApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/Question 0977 - Squares of a Sorted Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/src/OptimisedSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0977 - Squares of a Sorted Array/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1091 - Shortest Path in Binary Matrix/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1091 - Shortest Path in Binary Matrix/src/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1091 - Shortest Path in Binary Matrix/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1302 - Deepest Leaves Sum/Question 1302 - Deepest Leaves Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1302 - Deepest Leaves Sum/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1302 - Deepest Leaves Sum/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1302 - Deepest Leaves Sum/src/SolutionUsingDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1302 - Deepest Leaves Sum/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/Question 1609 - Even Odd Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/src/OptimisedSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1609 - Even Odd Tree/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/Question 2864 - Maximum Odd Binary Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2864 - Maximum Odd Binary Number/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3065 - Minimum Operations to Exceed Threshold Value I/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3065 - Minimum Operations to Exceed Threshold Value I/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3066 - Minimum Operations to Exceed Threshold Value II/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 3066 - Minimum Operations to Exceed Threshold Value II/src/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="c2a13259-d410-46cc-958c-6bfdd5bf15d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2d9bmmItcFs1OGwtxLsY5NbrGHO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -103,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -126,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709423404422</updated>
       <workItem from="1709423405394" duration="1029000" />
+      <workItem from="1709424562797" duration="31000" />
     </task>
     <servers />
   </component>
