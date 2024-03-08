@@ -14,10 +14,10 @@ public class Solution {
     public ListNode middleNode(ListNode head) {
         int length = getLength(head);
         if(length==0) return null;
-        int middle = (length/2) +1;
+        int middle = (length/2);
 
         ListNode pointer = head;
-        for (int i = 0; i < middle-1; i++) {
+        for (int i = 0; i < middle; i++) {
             pointer = pointer.next;
         }
         return pointer;

@@ -5,79 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1b871d6-a855-4504-80e2-8ffa3fb7bfc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newSol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/Question 0139 - Word Break.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/src/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0139 - Word Break/src/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/Question 0213 - House Robber II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0213 - House Robber II/src/SolutionUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/Question 0337 - House Robber III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/src/SolutionUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0337 - House Robber III/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/Question 0948 - Bag of Tokens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0948 - Bag of Tokens/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/Question 1219 - Path with Maximum Gold.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1219 - Path with Maximum Gold/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/Question 1750 - Minimum Length of String After Deleting Similar Ends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 1750 - Minimum Length of String After Deleting Similar Ends/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/Question 2390 - Removing Stars From a String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2390 - Removing Stars From a String/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/Question 2798 - Number of Employees Who Met the Target.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 2798 - Number of Employees Who Met the Target/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0141 - Linked List Cycle/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0141 - Linked List Cycle/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,13 +65,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -158,6 +80,8 @@
       <workItem from="1709676127970" duration="127000" />
       <workItem from="1709676310578" duration="54000" />
       <workItem from="1709676571404" duration="1434000" />
+      <workItem from="1709684675515" duration="20000" />
+      <workItem from="1709684772903" duration="47000" />
     </task>
     <servers />
   </component>
