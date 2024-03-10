@@ -15,14 +15,8 @@ class Solution {
                 pt1++;
                 pt2++;
             }
-            else if (nums1[pt1] > nums2[pt2])
-            {
-                pt2++;
-            }
-            else
-            {
-                pt1++;
-            }
+            else if (nums1[pt1] > nums2[pt2]) pt2++;
+            else pt1++;
         }
         if(ans.isEmpty()) return new int[0];
 
