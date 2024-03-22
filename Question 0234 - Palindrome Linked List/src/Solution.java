@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Objects;
 
 class Solution {
 
@@ -9,7 +10,7 @@ class Solution {
         int end = n-1;
         while(start <= end)
         {
-            if(arr.get(start) != arr.get(end)) return false;
+            if(!Objects.equals(arr.get(start), arr.get(end))) return false;
             start++;
             end--;
         }

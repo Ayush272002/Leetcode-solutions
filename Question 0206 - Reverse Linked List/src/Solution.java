@@ -1,33 +1,14 @@
-public class Solution
+class Solution
 {
-    public static ListNode reverseList(ListNode head)
+    private ListNode solve(ListNode curr, ListNode prev)
     {
-        if(head == null || head.next==null)
-            return head;
-        ListNode prev = null;
-        ListNode curr = head;
-        while(curr != null)
-        {
-            ListNode forward = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = forward;
-        }
-        return prev;
-    }
-
-    public static ListNode reverseListUsingRecursion(ListNode head)
-    {
-        return reverse(head,null);
-    }
-
-    static ListNode reverse(ListNode curr, ListNode prev)
-    {
-        if(curr==null)
-            return prev;
-
-        ListNode forward = curr.next;
+        if(curr == null) return prev;
+        ListNode nxt = curr.next;
         curr.next = prev;
-        return reverse(forward, curr);
+        return solve(nxt,curr);
+    }
+    public ListNode reverseList(ListNode head)
+    {
+        return solve(head,null);
     }
 }

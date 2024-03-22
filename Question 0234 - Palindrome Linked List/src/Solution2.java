@@ -1,6 +1,6 @@
-class Solution {
+class Solution2 {
 
-    ListNode getMid(ListNode head)
+    private ListNode getMid(ListNode head)
     {
         ListNode slow= head;
         ListNode fast = head.next;
@@ -13,7 +13,7 @@ class Solution {
         return slow;
     }
 
-    ListNode reverse(ListNode head)
+    private ListNode reverse(ListNode head)
     {
         ListNode curr = head;
         ListNode prev = null;
