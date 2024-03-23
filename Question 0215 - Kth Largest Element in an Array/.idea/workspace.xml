@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e038228-d710-4792-8c86-e9e695665bbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/Question 0237 - Delete Node in a Linked List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0237 - Delete Node in a Linked List/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/Question 240 - Search a 2D Matrix II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 240 - Search a 2D Matrix II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0344 - Reverse String/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0344 - Reverse String/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0344 - Reverse String/Question 344.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0344 - Reverse String/Question 344.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2bCCOhkVHtdY3KS4A5jUtNkrXQQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,10 +41,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705709644959</updated>
       <workItem from="1705709646003" duration="878000" />
+      <workItem from="1711139650164" duration="46000" />
     </task>
     <servers />
   </component>
