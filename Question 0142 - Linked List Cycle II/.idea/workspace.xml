@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8c3813c-eaef-48e1-9ec0-33ff0963a98d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Question 141/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 141/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 141/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 141/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/Question 3090 - Maximum Length Substring With Two Occurrences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3090 - Maximum Length Substring With Two Occurrences/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3091 - Apply Operations to Make Sum of Array Greater Than or Equal to k/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3091 - Apply Operations to Make Sum of Array Greater Than or Equal to k/src/RecursiveSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 3091 - Apply Operations to Make Sum of Array Greater Than or Equal to k/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +32,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZxSQT0pdknOL2CNbx0J2r5RTFN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,10 +49,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703362223880</updated>
       <workItem from="1703362224874" duration="330000" />
+      <workItem from="1711305413370" duration="38000" />
     </task>
     <servers />
   </component>
