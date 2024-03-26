@@ -54,7 +54,7 @@ class Solution {
                     }
                 }
 
-                graph.get(arr[index]).clear;
+                graph.get(arr[index]).clear();
             }
 
         }
