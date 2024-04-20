@@ -1,12 +1,22 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+class Solution
+{
+    private static class Pair {
+        int first, second;
+        Pair(int first, int second)
+        {
+            this.first = first;
+            this.second = second;
+        }
+    }
+
     private void bfs(int r, int c, boolean[][] visited, char[][] grid, int[][] direction)
     {
         visited[r][c] = true;
         Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(r,c));
+        q.add(new Pair(r, c));
         int n = grid.length;
         int m = grid[0].length;
 
@@ -26,7 +36,7 @@ class Solution {
                     if(!visited[newRow][newCol] && grid[newRow][newCol] == '1')
                     {
                         visited[newRow][newCol] = true;
-                        q.add(new Pair(newRow,newCol));
+                        q.add(new Pair(newRow, newCol));
                     }
                 }
             }
