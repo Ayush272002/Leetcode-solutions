@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede6a061-921f-4816-a385-dadfc9c33c8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Question 0017 - Letter Combinations of a Phone Number/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Question 0017 - Letter Combinations of a Phone Number/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0017 - Letter Combinations of a Phone Number/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimisedSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/Question 0219 - Contains Duplicate II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0219 - Contains Duplicate II/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/Question 1863 - Sum of All Subset XOR Totals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 1863 - Sum of All Subset XOR Totals/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/Question 2828 - Check if a String Is an Acronym of Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 2828 - Check if a String Is an Acronym of Words/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bu5BznSnXEkGjxUuP9Z5qmduUw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,13 +62,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707051991705</updated>
       <workItem from="1707051992842" duration="1606000" />
+      <workItem from="1716282673477" duration="753000" />
     </task>
     <servers />
   </component>
