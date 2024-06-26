@@ -23,6 +23,7 @@ Output: false
 ```
 
 **Example 3:** 
+
 <img alt="" src="https://assets.leetcode.com/uploads/2020/12/20/ex3.jpg" style="width: 622px; height: 182px;">
 
 ```
