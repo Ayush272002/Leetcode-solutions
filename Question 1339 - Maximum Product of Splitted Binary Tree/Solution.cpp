@@ -31,10 +31,10 @@ public:
         vector<int> sum;
         int total = dfs(root, sum);
 
-        int maxi = 0;
+        long long maxi = 0;
 
         for (int i = 0; i < sum.size(); ++i){
-            maxi = max(maxi, (total - sum[i]) * sum[i]);
+            maxi = max(maxi, (long long)(total - sum[i]) * sum[i]);
         }
 
         return maxi%MOD;

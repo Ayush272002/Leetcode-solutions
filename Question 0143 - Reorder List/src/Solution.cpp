@@ -13,15 +13,43 @@ struct ListNode
 class Solution
 {
 public:
-    ListNode* rev(ListNode *curr, ListNode *prev){
-
+    ListNode *rev(ListNode *curr, ListNode *prev)
+    {
+        if (curr == NULL)
+            return prev;
+        ListNode *next = curr->next;
+        curr->next = prev;
+        return rev(next, curr);
     }
 
     void reorderList(ListNode *head)
     {
-        ListNode ans(-1);
+        if (!head || !head->next || !head->next->next)
+            return;
 
-        ListNode *revList = head;
-        revList = rev(revList, NULL);
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while (fast && fast->next && fast->next->next)
+        {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode *second = slow->next;
+        slow->next = NULL;
+        second = rev(second, NULL);
+
+        ListNode *first = head;
+        while (second)
+        {
+            ListNode *temp1 = first->next;
+            ListNode *temp2 = second->next;
+
+            first->next = second;
+            second->next = temp1;
+            first = temp1;
+            second = temp2;
+        }
     }
 };
