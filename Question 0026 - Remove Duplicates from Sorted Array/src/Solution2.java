@@ -1,22 +1,16 @@
-import java.util.Deque;
-import java.util.LinkedList;
-
 class Solution2 {
     public int removeDuplicates(int[] nums) {
-        Deque<Integer> ans = new LinkedList<>();
-        int count = 0;
+        if (nums.length == 0)
+            return 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (ans.isEmpty() || ans.peekLast() != nums[i]) {
-                ans.add(nums[i]);
-                count++;
+        int ans = 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] != nums[i - 1]) {
+                nums[ans] = nums[i];
+                ans++;
             }
         }
 
-        for (int i = 0; i < count; i++) {
-            if(ans.peekFirst() != null) nums[i] = ans.poll();
-        }
-
-        return count;
+        return ans;
     }
 }

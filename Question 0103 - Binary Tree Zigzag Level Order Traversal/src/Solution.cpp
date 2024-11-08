@@ -20,15 +20,18 @@ public:
         if (!root)
             return ans;
 
+        bool leftToRight = true;
+
         queue<TreeNode *> q;
         q.push(root);
-        bool leftToRight = true;
 
         while (!q.empty())
         {
             int sz = q.size();
+
             vector<int> curr;
-            for (int i = 0; i < sz; i++)
+
+            for (int i = 0; i < sz; ++i)
             {
                 TreeNode *temp = q.front();
                 q.pop();
@@ -36,6 +39,7 @@ public:
                 curr.push_back(temp->val);
                 if (temp->left)
                     q.push(temp->left);
+
                 if (temp->right)
                     q.push(temp->right);
             }

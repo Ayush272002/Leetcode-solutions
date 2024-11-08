@@ -1,20 +1,15 @@
 class Solution {
     public int findJudge(int n, int[][] trust)
     {
-        int[] trustCount = new int[n+1]; //starting from 1
+        int[] peopleTrust = new int[trust.length+1];
 
-        for(int[] t : trust)
-        {
-            int personWhoTrust = t[0];
-            int personWhoIsGettingTrusted = t[1];
-
-            trustCount[personWhoTrust]--;
-            trustCount[personWhoIsGettingTrusted]++;
+        for (int[] nbr : trust) {
+            peopleTrust[nbr[0]]++;
         }
 
-        for(int i = 1; i<=n ; i++)
-        {
-            if(trustCount[i] == n-1) return i; //max n-1, excluding the judge
+        for (int i = 0; i < peopleTrust.length; i++) {
+            if (peopleTrust[i] == 0)
+                return peopleTrust[i];
         }
 
         return -1;

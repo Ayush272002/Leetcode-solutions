@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f98c2dc-be61-41d0-8c7b-917f391a7cb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/Question 0035 - Search Insert Position.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question 0035 - Search Insert Position/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0001 - Two Sum/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0001 - Two Sum/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0020 - Valid Parentheses/Question 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0020 - Valid Parentheses/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0020 - Valid Parentheses/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0026 - Remove Duplicates from Sorted Array/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0026 - Remove Duplicates from Sorted Array/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/Question 0027.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0027 - Remove Element/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0027 - Remove Element/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0058 - Length of Last Word/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0058 - Length of Last Word/src/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question 0066 - Plus One.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Question 0066 - Plus One.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 0103 - Binary Tree Zigzag Level Order Traversal/src/Solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Question 0103 - Binary Tree Zigzag Level Order Traversal/src/Solution.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2oWSk6ja5YDFYwgt5k7MUlYpcJp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ayush/OneDrive/Desktop/University/LeetCode/Question 0066 - Plus One",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f98c2dc-be61-41d0-8c7b-917f391a7cb0" name="Changes" comment="" />
+      <created>1730983978799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730983978799</updated>
+      <workItem from="1730983979871" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

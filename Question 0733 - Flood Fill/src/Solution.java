@@ -1,25 +1,25 @@
 class Solution {
-    private void dfs(int sr, int sc, int[][] img, int color, int iniColor, int r, int c)
-    {
+    private void solve(int[][] arr, int i, int j, int color, int init, int[][] dir) {
+        if (i < 0 || i >= arr.length || j < 0 || j >= arr[0].length || arr[i][j] != init)
+            return;
 
-        if (sr < 0 || sr >= r || sc < 0 || sc >= c || img[sr][sc] != iniColor) {
-            return; // bounds check and color check added
+        arr[i][j] = color;
+        for (int[] d : dir) {
+            int x = i + d[0];
+            int y = j + d[1];
+
+            solve(arr, x, y, color, init, dir);
         }
-        img[sr][sc] = color;
-
-        dfs(sr+1, sc, img, color, iniColor, r, c);
-        dfs(sr-1, sc, img, color, iniColor, r, c);
-        dfs(sr, sc-1, img, color, iniColor, r, c);
-        dfs(sr, sc+1, img, color, iniColor, r, c);
-
     }
-    public int[][] floodFill(int[][] image, int sr, int sc, int color)
-    {
-        int[][] ans = image; //so that we dont tamper the original data
 
-        int start = image[sr][sc];
-        if(start != color)
-            dfs(sr,sc,ans,color, image[sr][sc],ans.length, ans[0].length);
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int[][] ans = image;
+
+        int init = image[sr][sc];
+        int[][] dir = { { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
+
+        solve(ans, sr, sc, color, init, dir);
+
         return ans;
     }
 }
