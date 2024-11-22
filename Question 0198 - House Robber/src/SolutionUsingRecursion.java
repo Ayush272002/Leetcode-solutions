@@ -12,7 +12,6 @@ class SolutionUsingRecursion {
     }
     public int rob(int[] nums)
     {
-        int n = nums.length;
         int ans = solve(nums, nums.length-1);
         return ans;
     }
